@@ -6,6 +6,7 @@
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+      <div>测试自动部署</div>
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
